@@ -1,0 +1,59 @@
+{
+    "depth_unit": [
+        0
+    ],
+    "enable_10bit": [
+        0
+    ],
+    "enable_outlier_filter": [
+        1
+    ],
+    "enable_smoothing": [
+        1
+    ],
+    "enable_texture": [
+        1
+    ],
+    "enable_texture_supplementary": [
+        1
+    ],
+    "exposure_time": [
+        10000
+    ],
+    "gain": [
+        0
+    ],
+    "gray_threshold": [
+        5
+    ],
+    "outlier_filter_level": [
+        1
+    ],
+    "pattern_mode": [
+        5
+    ],
+    "projector_intensity": [
+        100
+    ],
+    "reconstruction_mode": [
+        0
+    ],
+    "roi_x": [
+        0,
+        2448
+    ],
+    "roi_y": [
+        0,
+        2048
+    ],
+    "roi_z": [
+        1,
+        1142
+    ],
+    "smoothing_filter_level": [
+        1
+    ],
+    "texture_exposure_time": [
+        10000
+    ]
+}

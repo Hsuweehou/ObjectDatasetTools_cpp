@@ -1,0 +1,20 @@
+{
+  "registration": {
+    "voxel_size": 0.001,
+    "voxel_r": 0.000324,
+    "k_neighbors": 10,
+    "label_interval": 1,
+    "reconstruction_interval": 15,
+    "register_scene_export_step_ply": true,
+    "icp_method": "point-to-plane",
+    "icp_max_iterations": 20,
+    "global_opt_max_iterations": 50,
+    "global_opt_max_lm_iterations": 12,
+    "aruco_marker_length_meters": 0.056,
+    "marker_corner_depth_half_window": 3,
+    "marker_corner_min_valid_samples": 5,
+    "marker_registration_diagnostics": true,
+    "marker_registration_diag_verbose": false,
+    "marker_match_rmse_tol_meters": 0.01
+  }
+}
